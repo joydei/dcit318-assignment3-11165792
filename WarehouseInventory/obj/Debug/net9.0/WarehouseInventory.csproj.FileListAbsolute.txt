@@ -1,0 +1,15 @@
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.AssemblyInfoInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.AssemblyInfo.cs
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.sourcelink.json
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.exe
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.deps.json
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.runtimeconfig.json
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.dll
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\bin\Debug\net9.0\WarehouseInventory.pdb
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.dll
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\refint\WarehouseInventory.dll
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.pdb
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\WarehouseInventory.genruntimeconfig.cache
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\WarehouseInventory\obj\Debug\net9.0\ref\WarehouseInventory.dll
