@@ -1,0 +1,15 @@
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.exe
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.deps.json
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.runtimeconfig.json
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.dll
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.pdb
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.AssemblyInfoInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.AssemblyInfo.cs
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.sourcelink.json
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.dll
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\refint\HealthCareSystem.dll
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.pdb
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.genruntimeconfig.cache
+C:\Users\Razer\Desktop\dcit318-assignment3-11165792\HealthCareSystem\obj\Debug\net9.0\ref\HealthCareSystem.dll

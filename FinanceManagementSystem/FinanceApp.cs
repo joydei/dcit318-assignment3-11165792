@@ -31,7 +31,7 @@ public class FinanceApp
         // iv. Apply each transaction to the SavingsAccount
         myAccount.ApplyTransaction(transaction1);
         myAccount.ApplyTransaction(transaction2);
-        myAccount.ApplyTransaction(transaction3); // This one will fail due to insufficient funds
+        myAccount.ApplyTransaction(transaction3); 
 
         // v. Add all transactions to the list
         _transactions.Add(transaction1);
