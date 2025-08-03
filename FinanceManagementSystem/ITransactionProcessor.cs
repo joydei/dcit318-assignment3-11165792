@@ -2,5 +2,5 @@ using System;
 
 public interface ITransactionProcessor
 {
-    void ProcessTransaction(Transaction transaction);
+    void Process(Transaction transaction);
 }
