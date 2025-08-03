@@ -1,0 +1,5 @@
+Joy Dei (ID: 101): Score = 84, Grade = A
+Marcus Aurelius (ID: 102): Score = 72, Grade = B
+Michael Jordan (ID: 103): Score = 65, Grade = C
+John Rockafeller (ID: 104): Score = 58, Grade = D
+Pierpont Morgan (ID: 105): Score = 49, Grade = F
